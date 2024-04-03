@@ -4,7 +4,7 @@
 
 <div align="center">
   <sub> 
-    <a href="https://www.linkedin.com/in/sergiorosa1/"> Sergio Rosa 
+    <a href="https://www.linkedin.com/in/itsmesuraj20/">Suraj Singh
   </sub>
 </div>
 
@@ -32,7 +32,7 @@ This project is being developed with the following technologies:
    <img src="./.github/screen2.png.png" width="400px">
 </div>
 
-This project by [Sergio Rosa](https://www.linkedin.com/in/sergiorosa1/). 
+This project by [Suraj Singh](https://www.linkedin.com/in/itsmesuraj20/). 
 
 Thank you! 
 
